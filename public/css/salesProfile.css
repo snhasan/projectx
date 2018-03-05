@@ -1,0 +1,46 @@
+.mainBox{
+    background: rgba(255,255,255,1);
+
+}
+
+.topBox{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    /*background: rgba(255,120,255,1);*/
+}
+
+.topText
+{
+
+}
+
+.imgBox{
+    /*background: rgba(240, 240, 240,1);*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+    margin-bottom: 20px;
+
+}
+
+
+.textBox
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: left;
+}
+
+.buttonBox
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+

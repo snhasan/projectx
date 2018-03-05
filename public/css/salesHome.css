@@ -1,0 +1,74 @@
+#createBox {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background: white;
+}
+
+#iconDiv {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    color: #0d6aad;
+}
+
+#cardBox {
+
+    background: white;
+
+    margin-bottom: 20px;
+    padding-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+    transition: background .2s linear;
+
+}
+
+#cardBox a span {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+#cardBox:hover {
+    background: rgba(44,62,80 ,1);
+    color: white;
+
+}
+
+#cardBox:hover h4 {
+
+    color: white;
+
+}
+
+#followUpDiv {
+    margin-top: 30px;
+}
+
+#followIconDiv {
+    font-size: 20px;
+    color: #1c2d3f;
+    margin-bottom: 20px;
+}
+
+.cardHeader {
+    background: rgba(52,152,219 ,1);
+    padding: 15px;
+    margin-bottom: 30px;
+    color: white;
+
+}
+
+#cardBody {
+    text-align: left;
+}
+
+#cardBody h4 {
+    color: #0d6aad;
+}
